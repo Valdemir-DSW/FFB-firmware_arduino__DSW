@@ -37,15 +37,18 @@ Para instalar utilizar você precisa de um Arduino Leonardo atemega 32u4
 com bootloader para você instalar o firmware com xloader veja o tutorial abaixo  
 na pasta firmware abra a pasta xloader inicie o aplicativo Xloader
 ![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/f1e37641-8fd7-4925-981a-3164aa714bad)
+
+
 ![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/85f7d4ce-e6ba-45c1-9dea-78ac810c7941)
 
 
  
  clique aqui procure a pasta que você baixou vá na pasta firmware e lá vai ter um arquivo com a extensão .hex
 agora vem o segredo.
- ![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/0818fbbf-c9c0-471d-aee5-48115b145f22)
+
 Abra essa lista e veja as portas existentes 
  a pós isso clique no botão vermelho do arduino e abra novamente essa lista veja aqui pra mim apareceu a porta com 7 para você pode ser diferente selecione ela clicando bem em cima 
+  ![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/0818fbbf-c9c0-471d-aee5-48115b145f22)
 
 
 após ela estar devidamente selecionada espere alguns segundos 10 geralmente, e aperte novamente no botão vermelho do arduíno e rapidamente aperte o botão upload no Xloader 
