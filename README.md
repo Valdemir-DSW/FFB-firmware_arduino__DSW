@@ -43,10 +43,11 @@ na pasta firmware abra a pasta xloader inicie o aplicativo Xloader
  
  clique aqui procure a pasta que você baixou vá na pasta firmware e lá vai ter um arquivo com a extensão .hex
 agora vem o segredo.
+ ![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/0818fbbf-c9c0-471d-aee5-48115b145f22)
 Abra essa lista e veja as portas existentes 
  a pós isso clique no botão vermelho do arduino e abra novamente essa lista veja aqui pra mim apareceu a porta com 7 para você pode ser diferente selecione ela clicando bem em cima 
- ![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/0818fbbf-c9c0-471d-aee5-48115b145f22)
+
 
 após ela estar devidamente selecionada espere alguns segundos 10 geralmente, e aperte novamente no botão vermelho do arduíno e rapidamente aperte o botão upload no Xloader 
-se aparecer embaixo upload e alguns números quer dizer que deu certo. E pronto arduíno já programado você pode excluir o Firmware Xloader do 
+se aparecer embaixo upload e alguns números quer dizer que deu certo. E pronto arduíno já programado você pode excluir o Firmware Xloader do PC
 
