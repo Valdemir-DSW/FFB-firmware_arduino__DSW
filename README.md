@@ -1,6 +1,6 @@
 # FFB-firmware_arduino__DSW
 ele está na beta ainda algumas coisas não funcionam direito
-os pedais não estão calibrando
+
 e a função odrive não está habilitada
 e o eixo z também não calibra
 e os visores deposição do software não estão funcionando corretamente
