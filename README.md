@@ -7,7 +7,7 @@ tudo isso será resolvido brevemente quando sair da beta informarei quando isso 
 
 
 para fazer o download
-[https://drive.google.com/file/d/1grLjVOx88g0e57jAIjrgcUhbtCY8vr8o/view?usp=sharing](https://www.mediafire.com/file/39j0d4yd3z56ki9/DSW+wheel.zip/file)
+https://www.mediafire.com/file/t9f7hz55z7xsfae/DSW+wheel.zip/file
 infelizmente o arquivo é muito grande para ter o download aqui
 
 será baixado um arquivo ZIP
