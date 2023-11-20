@@ -3,7 +3,7 @@
 
 
 para fazer o download
-https://www.mediafire.com/file/7zvfzm28ctole98/DSW+wheel_-_.zip/file
+https://www.mediafire.com/file/r0v84qd4l58n1r7/{DSW+whee}.zip/file
 infelizmente o arquivo é muito grande para ter o download aqui
 
 será baixado um arquivo ZIP
