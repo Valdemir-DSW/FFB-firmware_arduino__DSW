@@ -48,6 +48,7 @@ Abra essa lista e veja as portas existentes
 após ela estar devidamente selecionada espere alguns segundos 10 geralmente, e aperte novamente no botão vermelho do arduíno e rapidamente aperte o botão upload no Xloader 
 se aparecer embaixo upload e alguns números quer dizer que deu certo. E pronto arduíno já programado você pode excluir o Firmware Xloader do PC
 
-![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/172ec137-ec48-4e83-a603-e20406a46a6f)
+![image](https://github.com/Valdemir-DSW/FFB-firmware_arduino__DSW/assets/134114016/165d04ee-c3de-4aab-ad2d-7b3b79992a8f)
+
 
 
